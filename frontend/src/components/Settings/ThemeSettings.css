@@ -1,0 +1,13 @@
+.theme-settings {
+    margin-bottom: 20px;
+  }
+  
+  .theme-settings h3 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .theme-settings label {
+    display: block;
+    margin-bottom: 10px;
+  }

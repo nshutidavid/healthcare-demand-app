@@ -1,0 +1,15 @@
+.demand-filters {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .demand-filters label {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .demand-filters select {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }

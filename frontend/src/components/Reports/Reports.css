@@ -1,0 +1,13 @@
+.reports {
+    padding: 20px;
+  }
+  
+  .filters-container {
+    margin-bottom: 20px;
+  }
+  
+  .summary-container,
+  .detailed-container,
+  .chart-container {
+    margin-bottom: 20px;
+  }

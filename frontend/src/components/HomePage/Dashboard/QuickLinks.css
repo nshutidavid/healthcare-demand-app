@@ -1,0 +1,32 @@
+.quick-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .link-card {
+    flex: 1;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    text-decoration: none;
+    color: #2c3e50;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .link-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .link-icon {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #1abc9c;
+  }
+  
+  .link-card span {
+    font-size: 16px;
+    font-weight: bold;
+  }

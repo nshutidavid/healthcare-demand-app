@@ -1,0 +1,22 @@
+.data-export {
+    margin-bottom: 20px;
+  }
+  
+  .data-export h3 {
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+  
+  .data-export button {
+    padding: 10px 20px;
+    background-color: #1abc9c;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  
+  .data-export button:hover {
+    background-color: #16a085;
+  }
